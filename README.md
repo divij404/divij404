@@ -27,16 +27,10 @@
 - [**Project 3**](link_to_your_project): A brief description of what it does.
 -->
 ## 📫 Connect with me
-- [LinkedIn](your_linkedin_profile)
-- [Twitter](your_twitter_profile)
+- [LinkedIn](hhtps://linkedin.com/in/divij-agarwal)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## 📫 Connect with me
-- [LinkedIn](your_linkedin_profile)
-- [Twitter](your_twitter_profile)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 
 <!--
