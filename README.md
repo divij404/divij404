@@ -29,7 +29,7 @@
 ## 📫 Connect with me
 - [LinkedIn](hhtps://linkedin.com/in/divij-agarwal)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebinarybard&show_icons=true&theme=radical)
 
 
 
