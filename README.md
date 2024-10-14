@@ -27,7 +27,7 @@
 - [**Project 3**](link_to_your_project): A brief description of what it does.
 -->
 ## 📫 Connect with me
-- [LinkedIn](hhtps://linkedin.com/in/divij-agarwal)
+- [LinkedIn](https://www.linkedin.com/in/divij-agarwal/)
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thebinarybard&show_icons=true&theme=radical)
 -->
