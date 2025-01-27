@@ -4,7 +4,7 @@
 - I’m a freshman at University of Wisconsin-Madison.
 
 ## 💻 Skills
-- **Languages:** Python, JavaScript, HTML, CSS
+- **Languages:** Python, Java, JavaScript
 - **Frameworks:** Flask, Bootstrap
 
 <!--## 🌟 Projects
