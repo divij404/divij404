@@ -19,7 +19,7 @@
 
 ## 💻 Skills
 - **Languages:** Python, JavaScript, HTML, CSS
-- **Frameworks:** Flask, Bootstrap
+- **Frameworks:** Flask, Django
 
 ## 🌟 Projects
 - [**Project 1**](link_to_your_project): A brief description of what it does.
