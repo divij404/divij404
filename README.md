@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hey, I’m Divij 🧃  <br>CS undergrad at UW–Madison. I like building stuff that’s useful, fun, or both.<br><br>- 🧪 Experimenting with: AI, game dev, and questionable UI ideas  <br>- ✨ Side quests: fixing bugs I caused, learning cool frameworks, and occasionally touching grass  <br>- 📫 Hit me up: [06.divij.agarwal@gmail.com](mailto:06.divij.agarwal@gmail.com)<br><br>> Warning: May contain traces of unfinished side projects<br>
+### Hey, I’m Divij 🧃  <br>CS undergrad at UW–Madison. I like building stuff that’s useful, fun, or both.<br><br>- 🧪 Experimenting with: AI, game dev, and questionable UI ideas  <br>- ✨ Side quests: fixing bugs I caused, learning cool frameworks, and occasionally touching grass
 
 
 ## 🌐 Socials:
